@@ -164,11 +164,11 @@ hr {
   justify-content: center; /* Horizontal centering */
   
   width: auto;            /* Usually better for text links like "project page" */
-  height: auto;
-  /* padding: 4px 12px;      Gives breathing room around the text */
-  /* height: 25px; */
+  padding: 4px 5px;      
+  height: 15px;
 
   /* background-color: #bdd6e6; /*Matching the light blue in your image */
   border-radius: 15px;     /* The "rounded" magic - use 15px or higher for pill shape */
   box-shadow: 0px 0px 15px #bdd6e6;
+  font-size: 12px;
 }
